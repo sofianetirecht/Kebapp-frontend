@@ -8,14 +8,6 @@ Keb'App permet de trouver des restaurants kebab autour de soi, consulter leurs m
 
 **Projet final** réalisé en équipe de 3 lors de la formation La Capsule (certification RNCP Niveau 6 — Concepteur Développeur d'Applications Web & Mobile).
 
-### Mes contributions
-
-- Écrans d'authentification (inscription / connexion)
-- Écran de détail restaurant (fiche resto)
-- Modal panier avec gestion des options
-- Écran de paiement
-- Écran d'historique des commandes
-
 ## Fonctionnalités
 
 - **Géolocalisation** — Affichage des restaurants à proximité sur une carte interactive
